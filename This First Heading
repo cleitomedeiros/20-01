@@ -1,0 +1,15 @@
+<div class="row justify-content-center" >
+    <div class="col-6" >
+        <p>
+            <h1>This First Heading <small class="text-muted">Will Catch Your Eye</small></h1>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure cupiditate recusandae, pariatur neque adipisci
+            deserunt facere magnam illo. Alias nam neque quasi quidem, voluptatum quas rerum repellat ipsam quia
+            ducimus? </p>
+
+       
+    </div>
+    <div class="col-2 p-5" >
+        <img src="https://previews.123rf.com/images/jemastock/jemastock1703/jemastock170305300/73567683-hombre-con-gafas-de-sol-icono-de-dibujos-animados-sobre-fondo-blanco-dise%C3%B1o-colorido-ilustraci%C3%B3n-vec.jpg "
+           class="rounded-circle" alt="" width="300px" height="300px">
+    </div>
+</div>
